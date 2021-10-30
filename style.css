@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Bhaina+2&family=Dancing+Script&family=Roboto&display=swap');
+body {
+  margin: 0;
+  text-align: center;
+
+}
+
+h1 {
+  color: #66BFBF;
+font-size: 90px;
+  width: 20%;
+  margin: 0 auto 0 auto;
+font-family: 'Satisfy', cursive;
+}
+h2{
+  color: #66BFBF;
+  font-size: 40px;
+  font-family: 'Satisfy', cursive;
+}
+h3{
+
+  font-size: 20px;
+}
+  hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+
+}
+
+.top-container{
+  background-color:#e4f9f5;
+  position: relative;
+
+}
+
+.bottom-cloud{
+  position:absolute;
+  left: 300px;
+  bottom: 300px;
+}
+.top-cloud{
+  position:  absolute;
+  right: 300px;
+  top: 50px;
+
+}
+
+.h2{
+  font-family: 'Dancing Script', cursive;
+}
+.p{
+  font-family: 'Dancing Script', cursive;
+  font-size: 30px;
+}
+p{
+  font-size: 25px;
+}
+.skillsp{
+    font-family: 'Dancing Script', cursive;
+}
